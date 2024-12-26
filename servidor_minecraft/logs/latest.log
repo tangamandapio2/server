@@ -2047,3 +2047,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 18:29:01.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuzzouZrXIII has made the advancement [Critters n' Crawlers]
 [26Dec2024 18:30:01.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JuzzouZrXIII: Set own game mode to Creative Mode]
 [26Dec2024 18:31:12.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuzzouZrXIII has made the advancement [Miner's Nightmare]
+[26Dec2024 18:36:31.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6428, l='ServerLevel[world]', x=-1137.26, y=74.00, z=139.71] died, message: 'Villager was slain by Doctor Zombie'
+[26Dec2024 18:36:33.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuzzouZrXIII has made the advancement [Archmage Spell Book]
+[26Dec2024 18:39:01.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuzzouZrXIII has made the advancement [Mage's Spell Book]
+[26Dec2024 18:39:49.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JuzzouZrXIII: Set own game mode to Survival Mode]
+[26Dec2024 18:39:53.652] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/6290, l='ServerLevel[world]', x=-1069.70, y=74.00, z=89.31] died, message: 'Weaponsmith was slain by Adventurer Zombie'
+[26Dec2024 18:41:04.246] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/6438, l='ServerLevel[world]', x=-1078.49, y=76.00, z=191.61] died, message: 'Mason was slain by Wechuge'
+[26Dec2024 18:41:09.744] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6572, l='ServerLevel[world]', x=-1124.58, y=74.00, z=101.70] died, message: 'Villager was slain by Shielder Zombie'
+[26Dec2024 18:41:28.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuzzouZrXIII was shot by Skeleton
+[26Dec2024 18:41:30.550] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[26Dec2024 18:41:33.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JuzzouZrXIII: Set own game mode to Creative Mode]
+[26Dec2024 18:43:21.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JuzzouZrXIII: Set own game mode to Survival Mode]
+[26Dec2024 18:44:38.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JuzzouZrXIII: Set own game mode to Creative Mode]
